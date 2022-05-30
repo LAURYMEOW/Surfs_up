@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up
 
 ## Overview of the statistical analysis:
 W. Avy wants more information about temperature trends before opening the surf shop.
@@ -21,7 +21,8 @@ The standard deviation is 3.74 that indicates that the data is not very disperse
 These results suggest that December is usually a month with lower temperatures and it is very probably that the activities of the place will be reduced, but they do not imply a total cancellation.
 
 Table 2. December tobs statistics
-![December statistics]()
+![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20Statistics.png)
+![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20hist.png)
 
 To complement the above information, I decided to review the precipitation statistics, which allows me to make an approximate analysis to the possible impact of thermal sensation due to humidity, having the following results:
 
