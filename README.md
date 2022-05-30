@@ -38,7 +38,7 @@ It is very likely that the activity level of our business will descend due to th
 
 To make the results more robust, I decided to evaluate the temperatures and rainfall per month. In this way I could see more clearly the behavior of the weather on Oahu.
 With this analysis I discovered that there are a couple of months that are even colder both in terms of temperature and precipitation than December, these are January and March.
-Which allows us to consider winter as a low season but with activity in the demand for our service. However, months were found with perfect climates (above 72 grades on average) for our business,
+Which allows us to consider winter as a low season but with activity in the demand for our service. However, months were found with perfect climates (above 72 degrees on average) for our business,
 This is the period that covers the months of May to November. This season can very well compensate for the low season of winter.
 
 Chart 1. Oahu temperatures chart
