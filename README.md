@@ -13,7 +13,9 @@ The standard deviation is 3.26 that indicates that the data is not very disperse
 Acceptable temperature to continue with the typical activities of the area.
 
 Table 1. June tobs statistics
-![June statistics]()
+
+![June statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/June%20Statistics.png)
+![June statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/June%20hist.png)
 
 * For the month of December, it was obtained that on average from 2010 to 2017 there was a maximum temperature of 83°, a minimum of 56° and an average of 71°.
 Although the maximum temperature does not differ much from that of June, the minimum and average temperatures are 8 and 3 degrees lower, respectively.
@@ -21,6 +23,7 @@ The standard deviation is 3.74 that indicates that the data is not very disperse
 These results suggest that December is usually a month with lower temperatures and it is very probably that the activities of the place will be reduced, but they do not imply a total cancellation.
 
 Table 2. December tobs statistics
+
 ![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20Statistics.png)
 ![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20hist.png)
 
