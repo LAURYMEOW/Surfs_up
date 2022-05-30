@@ -12,7 +12,7 @@ The analysis was done for the two months as Avy suggested, having the following 
 The standard deviation is 3.26 that indicates that the data is not very dispersed from the mean, so 74° is a good reference for that month.
 Acceptable temperature to continue with the typical activities of the area.
 
-### Table 1. June tobs statistics
+### Table 1. June temperature statistics
 
 ![June statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/June%20Statistics.png)
 ![June statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/June%20hist.png)
@@ -22,7 +22,7 @@ Although the maximum temperature does not differ much from that of June, the min
 The standard deviation is 3.74 that indicates that the data is not very dispersed from the mean, so 71° is a good reference for that month.
 These results suggest that December is usually a month with lower temperatures and it is very probably that the activities of the place will be reduced, but they do not imply a total cancellation.
 
-### Table 2. December tobs statistics
+### Table 2. December temperature statistics
 
 ![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20Statistics.png)
 ![December statistics](https://github.com/LAURYMEOW/surfs_up/blob/main/December%20hist.png)
